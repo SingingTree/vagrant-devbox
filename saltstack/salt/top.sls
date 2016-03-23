@@ -1,3 +1,3 @@
 base:
   '*':
-    - linux_devbox
+    - ubuntu_packages
