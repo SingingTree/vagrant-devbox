@@ -3,6 +3,7 @@ file_client: local
 file_roots:
   base:
     - /vagrant/saltstack/salt
+    - /vagrant/saltstack/formulas/salt-ubuntu-dev-packages
 
 pillar_roots:
   base:

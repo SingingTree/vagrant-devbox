@@ -1,0 +1,3 @@
+[submodule "saltstack/formulas/salt-ubuntu-dev-packages"]
+	path = saltstack/formulas/salt-ubuntu-dev-packages
+	url = https://github.com/SingingTree/salt-ubuntu-dev-packages.git

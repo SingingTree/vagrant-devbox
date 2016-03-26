@@ -1,3 +1,3 @@
 base:
   '*':
-    - ubuntu_packages
+    - ubuntu_dev_packages
